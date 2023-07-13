@@ -1,2 +1,2 @@
 # Kalkulator
-Kalkulator sederhana menggunakan C++
+Kalkulator sederhana operasi 2 angka menggunakan C++
