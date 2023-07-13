@@ -6,10 +6,13 @@ int main()
     int a,c;
     char b;
 
-    cout << "Masukkan Nilai : ";
-    cin >> a;
+    cout << "Masukkan Operasi: ";
     cin >> b;
+    cout << "Masukkan Nilai Pertama: ";
+    cin >> a;
+    cout << "Masukkan Nilai Kedua: ";
     cin >> c;
+    
     switch (b)
     {
     case '+':
